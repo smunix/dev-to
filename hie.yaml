@@ -1,0 +1,10 @@
+cradle:
+  cabal:
+    - path: "./"
+      component: "lib:dev-to"
+
+    - path: "./Main.hs"
+      component: "dev-to:exe:dev-to"
+
+    - path: "./MyLib.hs"
+      component: "dev-to:exe:dev-to"

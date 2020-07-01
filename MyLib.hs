@@ -1,3 +1,0 @@
-
-module MyLib (recentComments) where
-
